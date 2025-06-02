@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page - TCP Web Server</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Test Page</h1>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/error.html">Test Page</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <h2>Test Error Handling</h2>
+            <p>Try these links to test error responses:</p>
+            <ul>
+                <li><a href="/nonexistent.html">404 - File Not Found</a></li>
+                <li><a href="/test.txt">403 - Forbidden File Type</a></li>
+                <li><a href="/../../etc/passwd">403 - Directory Traversal Blocked</a></li>
+            </ul>
+            <p><em>Note: POST requests will return 405 Method Not Allowed</em></p>
+        </div>
+    </div>
+</body>
+</html>

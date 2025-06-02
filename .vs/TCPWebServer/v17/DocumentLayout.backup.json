@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kiu-Student\\Desktop\\c#\\TCPWebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACFD0FD-9FBE-47F2-8005-00E5647F3937}|TCPWebServer\\TCPWebServer.csproj|c:\\users\\kiu-student\\desktop\\c#\\tcpwebserver\\tcpwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ACFD0FD-9FBE-47F2-8005-00E5647F3937}|TCPWebServer\\TCPWebServer.csproj|solutionrelative:tcpwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACFD0FD-9FBE-47F2-8005-00E5647F3937}|TCPWebServer\\TCPWebServer.csproj|c:\\users\\kiu-student\\desktop\\c#\\tcpwebserver\\tcpwebserver\\tcpwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ACFD0FD-9FBE-47F2-8005-00E5647F3937}|TCPWebServer\\TCPWebServer.csproj|solutionrelative:tcpwebserver\\tcpwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPWebServer",
+              "DocumentMoniker": "C:\\Users\\Kiu-Student\\Desktop\\c#\\TCPWebServer\\TCPWebServer\\TCPWebServer.csproj",
+              "RelativeDocumentMoniker": "TCPWebServer\\TCPWebServer.csproj",
+              "ToolTip": "C:\\Users\\Kiu-Student\\Desktop\\c#\\TCPWebServer\\TCPWebServer\\TCPWebServer.csproj",
+              "RelativeToolTip": "TCPWebServer\\TCPWebServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T04:34:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kiu-Student\\Desktop\\c#\\TCPWebServer\\TCPWebServer\\Program.cs",
+              "RelativeDocumentMoniker": "TCPWebServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Kiu-Student\\Desktop\\c#\\TCPWebServer\\TCPWebServer\\Program.cs",
+              "RelativeToolTip": "TCPWebServer\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:28:24.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
